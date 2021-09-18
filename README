@@ -1,0 +1,1 @@
+This is a simple image compressor. It uses PILLOW, tkinter and was converting from .py to .app with py2app.
